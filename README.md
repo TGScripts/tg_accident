@@ -17,9 +17,9 @@
 </p>
 
 ![Discord](https://img.shields.io/discord/1101900001392721931?label=Discord%20Server) 
-![Release Date](https://img.shields.io/github/release-date/LetsTiger/tg_accident?label=Last%20Release%20Date) 
-![Release](https://img.shields.io/github/v/release/LetsTiger/tg_accident?label=Last%20Release%20(Download%20below)) 
-![Downloads (all assets, all releases)](https://img.shields.io/github/downloads/LetsTiger/tg_accident/total?label=Downloads)
+![Release Date](https://img.shields.io/github/release-date/TGScripts/tg_accident?label=Last%20Release%20Date) 
+![Release](https://img.shields.io/github/v/release/TGScripts/tg_accident?label=Last%20Release%20(Download%20below)) 
+![Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TGScripts/tg_accident/total?label=Downloads)
 
 ---
 > [!CAUTION]
@@ -52,7 +52,7 @@
 <hr>
 
 ## Download
-[![Latest Release](https://img.shields.io/github/v/release/LetsTiger/tg_accident?label=latest)](https://github.com/LetsTiger/tg_accident/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/TGScripts/tg_accident?label=latest)](https://github.com/TGScripts/tg_accident/releases/latest)
 
 <hr>
 
